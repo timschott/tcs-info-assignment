@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Restaurants>
+<Restaurant>
+	<Id>0</Id>
+	<Name>Kabana</Name>
+	<Cuisine>Indian</Cuisine>
+	<City>Berkeley</City>
+	<Open>12pm</Open>
+	<Close>9pm</Close>
+</Restaurant>
+<Restaurant>
+	<Id>1</Id>
+	<Name>Cheeseboard</Name>
+	<Cuisine>Italian</Cuisine>
+	<City>Berkeley</City>
+	<Open>11am</Open>
+	<Close>8pm</Close>
+</Restaurant>
+<Restaurant>
+	<Id>2</Id>
+	<Name>The Butcher</Name>
+	<Cuisine>American</Cuisine>
+	<City>Berkeley</City>
+	<Open>9am</Open>
+	<Close>3pm</Close>
+</Restaurant>
+</Restaurants>

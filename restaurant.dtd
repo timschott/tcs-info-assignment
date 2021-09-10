@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE RESTAURANTS [
+<!ELEMENT Restaurants (Restaurant+)>
+<!ELEMENT Restaurant (Id, Name, Cuisine, City, Open, Close)>
+<!ELEMENT Id (#PCDATA)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Cuisine (#PCDATA)>
+<!ELEMENT City (#PCDATA)>
+<!ELEMENT Open (#PCDATA)>
+<!ELEMENT Close (#PCDATA)>
+]>
